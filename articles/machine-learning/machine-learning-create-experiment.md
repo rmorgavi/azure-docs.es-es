@@ -31,7 +31,7 @@ Le mostraremos cómo usar Studio por primera vez para crear un experimento de ap
 > [!NOTE]
 > En este tutorial se muestran los conceptos básicos de cómo arrastrar y colocar módulos en el experimento, conectarlos, ejecutar el experimento y examinar los resultados. No vamos a explicar el tema general de aprendizaje automático o cómo seleccionar y usar los más de 100 algoritmos integrados y módulos de manipulación de datos incluidos en Studio.
 >
->Si está familiarizado con el aprendizaje automático, la serie de vídeos [Ciencia de datos para principiantes](machine-learning-data-science-for-beginners-the-5-questions-data-science-answers.md) podría ser un buen lugar para comenzar. Esta serie de vídeos es una excelente introducción al aprendizaje automático mediante el uso de conceptos y lenguaje cotidianos.
+>Si no está familiarizado con el aprendizaje automático, la serie de vídeos [Ciencia de datos para principiantes](machine-learning-data-science-for-beginners-the-5-questions-data-science-answers.md) podría ser un buen lugar para comenzar. Esta serie de vídeos es una excelente introducción al aprendizaje automático mediante el uso de conceptos y lenguaje cotidianos.
 >
 >Si conoce el aprendizaje automático pero busca información más general sobre Machine Learning Studio y los algoritmos de aprendizaje automático que contiene, aquí se indican unos buenos recursos:
 >
